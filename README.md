@@ -24,6 +24,28 @@
 </a>
 
 </div>
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/shaurabh2003">
+<img src="https://img.shields.io/badge/LinkedIn-Shaurabh%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://leetcode.com/shaurabh2003">
+<img src="https://img.shields.io/badge/LeetCode-shaurabh2003-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+</a>
+
+<a href="mailto:engineershaurabh@gmail.com">
+<img src="https://img.shields.io/badge/Email-engineershaurabh-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://github.com/shaurabh2003">
+<img src="https://img.shields.io/badge/GitHub-shaurabh2003-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
+
 
 ---
 
