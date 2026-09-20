@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6f42c1&height=220&section=header&text=SHAURABH%20KUMAR&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Software%20Engineer&descAlignY=58&descSize=20" width="100%" />
 
-# 👋 Hi, I'm **Shaurabh Kumar**
+# 👋 Hi, I'm **SHAURABH KUMAR**
 
 ### 🎓 MCA Student @ Galgotias University
 
@@ -101,7 +101,7 @@ I'm **Shaurabh Kumar**, an MCA student and aspiring software engineer focused on
 
 ---
 
-# 🧠 DSA Toolkit
+# 🧠 DSA Toolkit Project
 
 <div align="center">
 
@@ -169,73 +169,7 @@ I'm **Shaurabh Kumar**, an MCA student and aspiring software engineer focused on
 
 ---
 
-# 🔨 Currently Building
-
-<div align="center">
-
-## 🧰 DSA Toolkit
-
-**Building a structured Java-based toolkit for learning, practicing and organizing DSA concepts.**
-
-</div>
-
-### 🎯 Goals
-
-* 📌 Topic-wise implementations
-* ☕ Java-based solutions
-* 🧠 Simple & understandable code
-* 🔍 Problem-solving practice
-* 📝 Interview preparation
-* 🚀 Continuous improvement
-
-<div align="center">
-
-<a href="https://github.com/shaurabh2003/DSA-TOPIC-CODES">
-<img src="https://img.shields.io/badge/🔗%20VIEW%20PROJECT-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="View DSA Toolkit"/>
-</a>
-
-</div>
-
 ---
-
-# 🌱 Currently Learning
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,react,nodejs,mysql,mongodb,docker,git" alt="Currently Learning"/>
-
-</div>
-
-<br>
-
-```text
-☕ Advanced Java
-🧠 Data Structures & Algorithms
-🌐 Full Stack Development
-⚛️ React
-🔙 Backend Development
-🗄️ SQL & MongoDB
-🤖 AI / Machine Learning
-🐳 Docker
-🔧 Git & GitHub
-```
-
----
-
-# 💻 Development Focus
-
-<div align="center">
-
-|      💡 Area     | 🚀 Current Focus              |
-| :--------------: | :---------------------------- |
-|    ☕ **Java**    | Core Java & Advanced Java     |
-|    🧠 **DSA**    | Problem Solving & Algorithms  |
-|    🌐 **Web**    | Full Stack Development        |
-| 🗄️ **Database** | MySQL & MongoDB               |
-|   🤖 **AI/ML**   | Exploring AI Technologies     |
-|   🔧 **Tools**   | Git, GitHub, Docker & VS Code |
-
-</div>
 
 ---
 
