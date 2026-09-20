@@ -1,12 +1,13 @@
 <div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,25:082F49,50:075985,75:0284C7,100:06B6D4&height=250&section=header&text=WELCOME%20TO%20MY%20GITHUB%20PROFILE&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=ASPIRING%20SOFTWARE%20ENGINEER&descAlignY=61&descSize=21&animation=twinkling" width="100%" alt="Welcome to my GitHub Profile"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6f42c1&height=220&section=header&text=WELCOME%20TO%20MY%20GITHUBPROFILE&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Software%20Engineer&descAlignY=58&descSize=20" width="100%" />
+</div>
 
 # 👋 Hi, I'm **SHAURABH KUMAR**
 
 ### 🎓 MCA Student @ Galgotias University
 
-**💻 Aspiring Software Engineer**
 ☕ Java • 🐍 Python • 🧠 DSA • 🌐 Full Stack • 🤖 AI/ML
 
 <br>
@@ -194,7 +195,3 @@ I'm **Shaurabh Kumar**, an MCA student and aspiring software engineer focused on
 ### 🚀 **Keep Coding • Keep Learning • Keep Building**
 
 <br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6f42c1&height=120&section=footer" width="100%" />
-
-</div>
