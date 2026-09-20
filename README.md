@@ -1,25 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6f42c1&height=200&section=header&text=SHAURABH%20KUMAR&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Software%20Engineer&descAlignY=58&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6f42c1&height=220&section=header&text=SHAURABH%20KUMAR&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Software%20Engineer&descAlignY=58&descSize=20" width="100%" />
 
-</div>
+# 👋 Hi, I'm **Shaurabh Kumar**
 
-<h1 align="center">👋 Hi, I'm Shaurabh Kumar</h1>
+### 🎓 MCA Student @ Galgotias University
 
-<h3 align="center">
-🎓 MCA Student @ Galgotias University
-</h3>
+**💻 Aspiring Software Engineer**
+☕ Java • 🐍 Python • 🧠 DSA • 🌐 Full Stack • 🤖 AI/ML
 
-<p align="center">
-💻 Aspiring Software Engineer &nbsp; | &nbsp;
-☕ Java &nbsp; | &nbsp;
-🐍 Python &nbsp; | &nbsp;
-🧠 DSA &nbsp; | &nbsp;
-🌐 Full Stack Development &nbsp; | &nbsp;
-🤖 AI/ML
-</p>
-
-<div align="center">
+<br>
 
 <a href="https://github.com/shaurabh2003">
 <img src="https://komarev.com/ghpvc/?username=shaurabh2003&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
@@ -30,33 +20,7 @@
 </a>
 
 <a href="https://github.com/shaurabh2003?tab=repositories">
-<img src="https://img.shields.io/github/stars/shaurabh2003?label=STARS&style=for-the-badge&color=yellow" alt="Stars"/>
-</a>
-
-<a href="https://github.com/shaurabh2003?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-View-181717?style=for-the-badge&logo=github" alt="Repositories"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://linkedin.com/in/shaurabh2003">
-<img src="https://img.shields.io/badge/LinkedIn-Shaurabh%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://leetcode.com/shaurabh2003">
-<img src="https://img.shields.io/badge/LeetCode-shaurabh2003-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-</a>
-
-<a href="mailto:engineershaurabh@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-engineershaurabh-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<a href="https://github.com/shaurabh2003">
-<img src="https://img.shields.io/badge/GitHub-shaurabh2003-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/github/stars/shaurabh2003?label=STARS&style=for-the-badge&color=f5c518" alt="Stars"/>
 </a>
 
 </div>
@@ -65,7 +29,7 @@
 
 ## 🚀 About Me
 
-I'm **Shaurabh Kumar**, an MCA student and aspiring software engineer passionate about **software development, problem solving and building practical projects**.
+I'm **Shaurabh Kumar**, an MCA student and aspiring software engineer focused on **software development, problem solving and building practical projects**.
 
 * 🎓 Pursuing **MCA at Galgotias University**
 * ☕ Learning and practicing **Java**
@@ -92,11 +56,7 @@ I'm **Shaurabh Kumar**, an MCA student and aspiring software engineer passionate
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaurabh2003&layout=compact&langs_count=8&hide_border=true&theme=github_dark" alt="Top Languages"/>
 </a>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaurabh2003&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak"/>
 
@@ -113,7 +73,7 @@ I'm **Shaurabh Kumar**, an MCA student and aspiring software engineer passionate
 </a>
 
 <a href="https://github.com/shaurabh2003?tab=stars">
-<img src="https://img.shields.io/github/stars/shaurabh2003?label=STARS%20RECEIVED&style=for-the-badge&logo=github&color=yellow" alt="Stars Received"/>
+<img src="https://img.shields.io/github/stars/shaurabh2003?label=STARS%20RECEIVED&style=for-the-badge&logo=github&color=f5c518" alt="Stars Received"/>
 </a>
 
 <a href="https://github.com/shaurabh2003?tab=followers">
@@ -128,37 +88,34 @@ I'm **Shaurabh Kumar**, an MCA student and aspiring software engineer passionate
 
 <div align="center">
 
-<h2>☕ Java DSA Toolkit</h2>
+### ☕ Java DSA Toolkit
 
-<p>
-A Java-based learning project where I organize important
-<strong>Data Structures & Algorithms</strong> concepts and practice implementations.
-</p>
+**A Java-based learning project for organizing and practicing important Data Structures & Algorithms.**
 
 </div>
 
-### 🎯 What I'm Building
+### 🎯 Core Areas
 
-| Area           | Focus                            |
-| -------------- | -------------------------------- |
-| 📦 Arrays      | Implementation & Problem Solving |
-| 🔤 Strings     | String Manipulation              |
-| 🔗 Linked List | Core Operations                  |
-| 📚 Stack       | Stack Problems                   |
-| 🚶 Queue       | Queue Problems                   |
-| 🌳 Trees       | Binary Trees & Traversals        |
-| 🕸️ Graphs     | BFS / DFS                        |
-| #️⃣ Hashing    | HashMap / HashSet                |
-| 💰 Greedy      | Greedy Algorithms                |
-| 🔎 Searching   | Searching Techniques             |
-| 🔄 Sorting     | Sorting Algorithms               |
+| 📚 Topic           | 🎯 Focus                         |
+| :----------------- | :------------------------------- |
+| 📦 **Arrays**      | Implementation & Problem Solving |
+| 🔤 **Strings**     | String Manipulation              |
+| 🔗 **Linked List** | Core Operations                  |
+| 📚 **Stack**       | Stack Problems                   |
+| 🚶 **Queue**       | Queue Problems                   |
+| 🌳 **Trees**       | Traversals & Problems            |
+| 🕸️ **Graphs**     | BFS / DFS                        |
+| #️⃣ **Hashing**    | HashMap / HashSet                |
+| 💰 **Greedy**      | Greedy Algorithms                |
+| 🔎 **Searching**   | Searching Techniques             |
+| 🔄 **Sorting**     | Sorting Algorithms               |
 
 <br>
 
 <div align="center">
 
 <a href="https://github.com/shaurabh2003/DSA-TOPIC-CODES">
-<img src="https://img.shields.io/badge/⭐%20VIEW%20DSA%20TOOLKIT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View DSA Toolkit"/>
+<img src="https://img.shields.io/badge/⭐%20EXPLORE%20DSA%20TOOLKIT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore DSA Toolkit"/>
 </a>
 
 </div>
@@ -169,7 +126,7 @@ A Java-based learning project where I organize important
 
 <div align="center">
 
-### 💻 Programming Languages
+### 💻 Programming
 
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js" alt="Programming Languages"/>
 
@@ -187,9 +144,9 @@ A Java-based learning project where I organize important
 
 <br><br>
 
-### 🔧 Tools & Technologies
+### 🔧 Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" alt="Development Tools"/>
 
 </div>
 
@@ -199,17 +156,17 @@ A Java-based learning project where I organize important
 
 <div align="center">
 
-### 🧰 DSA Toolkit
+## 🧰 DSA Toolkit
+
+**Building a structured Java-based toolkit for learning, practicing and organizing DSA concepts.**
 
 </div>
-
-I'm currently developing a **Java-based DSA Toolkit** focused on organizing important DSA concepts in a clean and understandable way.
 
 ### 🎯 Goals
 
 * 📌 Topic-wise implementations
 * ☕ Java-based solutions
-* 🧠 Easy-to-understand code
+* 🧠 Simple & understandable code
 * 🔍 Problem-solving practice
 * 📝 Interview preparation
 * 🚀 Continuous improvement
@@ -217,7 +174,7 @@ I'm currently developing a **Java-based DSA Toolkit** focused on organizing impo
 <div align="center">
 
 <a href="https://github.com/shaurabh2003/DSA-TOPIC-CODES">
-<img src="https://img.shields.io/badge/🔗%20Explore%20DSA%20Toolkit-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Explore DSA Toolkit"/>
+<img src="https://img.shields.io/badge/🔗%20VIEW%20PROJECT-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="View DSA Toolkit"/>
 </a>
 
 </div>
@@ -248,42 +205,34 @@ I'm currently developing a **Java-based DSA Toolkit** focused on organizing impo
 
 ---
 
-# 💻 Coding & Development
+# 💻 Development Focus
 
 <div align="center">
 
-| 💡 Area      | 🚀 Focus                      |
-| ------------ | ----------------------------- |
-| ☕ Java       | Core Java & Advanced Java     |
-| 🧠 DSA       | Problem Solving & Algorithms  |
-| 🌐 Web       | Full Stack Development        |
-| 🗄️ Database | MySQL & MongoDB               |
-| 🤖 AI/ML     | Exploring AI Technologies     |
-| 🔧 Tools     | Git, GitHub, Docker & VS Code |
+|      💡 Area     | 🚀 Current Focus              |
+| :--------------: | :---------------------------- |
+|    ☕ **Java**    | Core Java & Advanced Java     |
+|    🧠 **DSA**    | Problem Solving & Algorithms  |
+|    🌐 **Web**    | Full Stack Development        |
+| 🗄️ **Database** | MySQL & MongoDB               |
+|   🤖 **AI/ML**   | Exploring AI Technologies     |
+|   🔧 **Tools**   | Git, GitHub, Docker & VS Code |
 
 </div>
 
 ---
 
-# 📫 Connect With Me
+# 📈 GitHub Profile Summary
 
 <div align="center">
 
-<a href="https://linkedin.com/in/shaurabh2003">
-<img src="https://img.shields.io/badge/LinkedIn-Shaurabh%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaurabh2003&theme=github" alt="GitHub Profile Details"/>
 
-<a href="https://leetcode.com/shaurabh2003">
-<img src="https://img.shields.io/badge/LeetCode-shaurabh2003-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-</a>
+<br><br>
 
-<a href="mailto:engineershaurabh@gmail.com">
-<img src="https://img.shields.io/badge/Email-engineershaurabh-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shaurabh2003&theme=github" width="49%" alt="Repositories per Language"/>
 
-<a href="https://github.com/shaurabh2003">
-<img src="https://img.shields.io/badge/GitHub-shaurabh2003-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shaurabh2003&theme=github" width="49%" alt="Most Commit Language"/>
 
 </div>
 
@@ -291,7 +240,7 @@ I'm currently developing a **Java-based DSA Toolkit** focused on organizing impo
 
 <div align="center">
 
-### 🚀 Keep Coding • Keep Learning • Keep Building
+### 🚀 **Keep Coding • Keep Learning • Keep Building**
 
 <br>
 
