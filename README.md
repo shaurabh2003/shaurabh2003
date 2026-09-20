@@ -22,7 +22,7 @@
 </a>
 
 </div>
-# 📫 Connect With Me
+# 📫 Connect With Me -->
 
 <div align="center">
 
@@ -47,7 +47,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me -->
 
 I'm **Shaurabh Kumar**, an MCA student and aspiring software engineer focused on **software development, problem solving and building practical projects**.
 
@@ -64,7 +64,23 @@ I'm **Shaurabh Kumar**, an MCA student and aspiring software engineer focused on
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Profile Analytics -->
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaurabh2003&theme=tokyonight" width="100%" alt="GitHub Profile Analytics"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shaurabh2003&theme=tokyonight" width="49%" alt="GitHub Statistics"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shaurabh2003&theme=tokyonight&utcOffset=5.5" width="49%" alt="Productive Coding Time"/>
+
+</div>
+
+---
+
+# 📊 GitHub Statistics -->
 
 <div align="center">
 <br><br>
@@ -74,7 +90,7 @@ I'm **Shaurabh Kumar**, an MCA student and aspiring software engineer focused on
 
 ---
 
-# 📈 GitHub Overview
+# 📈 GitHub Overview -->
 
 <div align="center">
 <a href="https://github.com/shaurabh2003?tab=stars">
@@ -89,7 +105,7 @@ I'm **Shaurabh Kumar**, an MCA student and aspiring software engineer focused on
 
 ---
 
-# 🧠 DSA Toolkit Project
+# 🧠 DSA Toolkit Project -->
 
 <div align="center">
 
@@ -127,7 +143,7 @@ I'm **Shaurabh Kumar**, an MCA student and aspiring software engineer focused on
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Tech Stack -->
 
 <div align="center">
 
@@ -157,22 +173,6 @@ I'm **Shaurabh Kumar**, an MCA student and aspiring software engineer focused on
 
 ---
 
-# 📊 GitHub Profile Analytics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaurabh2003&theme=tokyonight" width="100%" alt="GitHub Profile Analytics"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shaurabh2003&theme=tokyonight" width="49%" alt="GitHub Statistics"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shaurabh2003&theme=tokyonight&utcOffset=5.5" width="49%" alt="Productive Coding Time"/>
-
-</div>
-
----
-
-### 🚀 **Keep Coding • Keep Learning • Keep Building**
+### 🚀 **Keep Coding • Keep Learning • Keep Building**------->
 
 <br>
