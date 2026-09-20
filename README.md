@@ -89,11 +89,6 @@ I'm **Shaurabh Kumar**, an MCA student and aspiring software engineer focused on
 # 📈 GitHub Overview
 
 <div align="center">
-
-<a href="https://github.com/shaurabh2003?tab=repositories">
-<img src="https://img.shields.io/github/repos/shaurabh2003?label=TOTAL%20REPOSITORIES&style=for-the-badge&logo=github&color=0e75b6" alt="Total Repositories"/>
-</a>
-
 <a href="https://github.com/shaurabh2003?tab=stars">
 <img src="https://img.shields.io/github/stars/shaurabh2003?label=STARS%20RECEIVED&style=for-the-badge&logo=github&color=f5c518" alt="Stars Received"/>
 </a>
