@@ -1,12 +1,10 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,25:082F49,50:075985,75:0284C7,100:06B6D4&height=250&section=header&text=WELCOME%20TO%20MY%20GITHUB%20PROFILE&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=ASPIRING%20SOFTWARE%20ENGINEER&descAlignY=61&descSize=21&animation=twinkling" width="100%" alt="Welcome to my GitHub Profile"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0F172A,50:1E3A8A,75:2563EB,100:38BDF8&height=180&section=header&text=WELCOME%20TO%20MY%20GITHUB%20PROFILE&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=ASPIRING%20SOFTWARE%20ENGINEER&descAlignY=61&descSize=21&animation=twinkling" width="100%" alt="Welcome to my GitHub Profile"/>
+</div>
 
 # 👋 Hi, I'm **SHAURABH KUMAR**
-
 ### 🎓 MCA Student @ Galgotias University
-
 ☕ Java • 🐍 Python • 🧠 DSA • 🌐 Full Stack • 🤖 AI/ML
-
 <br>
 
 <a href="https://github.com/shaurabh2003">
@@ -22,7 +20,8 @@
 </a>
 
 </div>
-# 📫 Connect With Me 
+
+# 📫 Connect With Me -->
 
 <div align="center">
 <a href="https://linkedin.com/in/shaurabh2003">
