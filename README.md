@@ -1,31 +1,331 @@
-<h1 align="center">Hi 👋, I'm SHAURABH KUMAR</h1>
-<h3 align="center">🎓 MCA Student @ Galgotias University | 💻 Aspiring Software Engineer | ☕ Java • 🐍 Python • 🧠 DSA • 🌐 Web Development • 🤖 AI/ML | 🚀 Building Projects & Solving Problems</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaurabh2003&label=Profile%20views&color=0e75b6&style=flat" alt="shaurabh2003" /> </p>
+# 👋 Hi, I'm **SHAURABH KUMAR**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaurabh2003" alt="shaurabh2003" /></a> </p>
+### 🎓 MCA Student @ Galgotias University
 
-- 🔭 I’m currently working on [DSA TOOLKIT](https://github.com/shaurabh2003/DSA-TOPIC-CODES/blob/main/PROJECT%20JAVA/DsaToolkit.java)
+### 💻 Aspiring Software Engineer | ☕ Java | 🐍 Python | 🧠 DSA | 🌐 Full Stack Development | 🤖 AI/ML
 
-- 🌱 I’m currently learning **I AM WORKING ON A PROJECT**
-
-- 🤝 I’m looking for help with [DSA TOOLKIT](https://github.com/shaurabh2003/DSA-TOPIC-CODES/blob/main/PROJECT%20JAVA/DsaToolkit.java)
-
-- 💬 Ask me about **DSA & FULL STACK DEV**
-
-- 📫 How to reach me **engineershaurabh@gmail.com**
-
-- ⚡ Fun fact **I AM A CONTENT CREATOR**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shaurabh2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaurabh2003" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shaurabh2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shaurabh2003" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/shaurabh2003">
+    <img src="https://komarev.com/ghpvc/?username=shaurabh2003&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/shaurabh2003?tab=followers">
+    <img src="https://img.shields.io/github/followers/shaurabh2003?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers"/>
+  </a>
+  <a href="https://github.com/shaurabh2003?tab=repositories">
+    <img src="https://img.shields.io/github/stars/shaurabh2003?label=Stars&style=for-the-badge&color=yellow" alt="Stars"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<p>
+  <a href="https://linkedin.com/in/shaurabh2003">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/shaurabh2003">
+    <img src="https://img.shields.io/badge/LeetCode-Solve%20with%20me-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
+  </a>
+  <a href="mailto:engineershaurabh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaurabh2003&show_icons=true&locale=en&layout=compact" alt="shaurabh2003" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaurabh2003&show_icons=true&locale=en" alt="shaurabh2003" /></p>
+---
+
+## 🚀 About Me
+
+I'm **Shaurabh Kumar**, an MCA student and aspiring software engineer passionate about building practical applications and improving my problem-solving skills.
+
+* 🎓 Currently pursuing **MCA at Galgotias University**
+* 💻 Learning and practicing **Java & Data Structures and Algorithms**
+* 🌐 Exploring **Full Stack Web Development**
+* 🤖 Interested in **AI/ML**
+* 🔨 Currently building my **DSA Toolkit**
+* 🧩 Regularly solving coding problems
+* 📚 Improving my problem-solving and development skills
+* 🎯 Goal: Become a strong **Software Engineer**
+
+> 💡 **Code → Learn → Build → Solve → Improve**
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaurabh2003&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaurabh2003&layout=compact&langs_count=8&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shaurabh2003&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<a href="https://github.com/shaurabh2003">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shaurabh2003&hide_border=true&area=true" alt="Contribution Activity Graph"/>
+
+</a>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shaurabh2003&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+# 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/shaurabh2003/DSA-TOPIC-CODES">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shaurabh2003&repo=DSA-TOPIC-CODES&hide_border=true" />
+</a>
+
+<a href="https://github.com/shaurabh2003/DSA-TOPIC-CODES">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shaurabh2003&repo=DSA-TOPIC-CODES&hide_border=true" />
+</a>
+
+</div>
+
+### 🧠 DSA Toolkit
+
+A Java-based project containing implementations and practice code for important **Data Structures & Algorithms** topics.
+
+**Focus Areas:**
+
+`Arrays` • `Strings` • `Linked List` • `Stack` • `Queue` • `Trees` • `Graphs` • `Hashing` • `Greedy` • `Searching` • `Sorting`
+
+🔗 **Project:**
+https://github.com/shaurabh2003/DSA-TOPIC-CODES
+
+---
+
+# 💻 Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js"/>
+</p>
+
+### 🗄️ Database & Backend
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" height="45" alt="Spring"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="45" height="45" alt="Django"/>
+</p>
+
+### 🛠️ Tools & Technologies
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
+</p>
+
+---
+
+# 🧠 DSA & Problem Solving
+
+Currently focusing on **Data Structures & Algorithms using Java**.
+
+### 📚 Topics I'm Practicing
+
+```text
+Arrays
+Strings
+Linked Lists
+Stacks
+Queues
+Hashing
+Recursion
+Binary Trees
+Binary Search Trees
+Graphs
+Greedy Algorithms
+Searching
+Sorting
+Sliding Window
+Two Pointers
+Dynamic Programming
+```
+
+### 💻 Coding Platforms
+
+<p>
+<a href="https://leetcode.com/shaurabh2003">
+<img src="https://img.shields.io/badge/LeetCode-Solve%20Problems-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://github.com/shaurabh2003?tab=repositories">
+<img src="https://img.shields.io/badge/GitHub-Coding%20Projects-black?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+# 🔨 Currently Building
+
+## 🧰 DSA Toolkit
+
+I'm building a Java-based **DSA Toolkit** to organize important Data Structures and Algorithms in one project.
+
+### 🎯 Goals
+
+* 📌 Topic-wise DSA implementations
+* 🧠 Easy-to-understand Java code
+* 🔍 Problem-solving practice
+* 📝 Interview preparation
+* 🚀 Continuous improvement
+
+<a href="https://github.com/shaurabh2003/DSA-TOPIC-CODES/blob/main/PROJECT%20JAVA/DsaToolkit.java">
+
+<img src="https://img.shields.io/badge/View%20DSA%20Toolkit-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+---
+
+# 🌱 Currently Learning
+
+```text
+☕ Advanced Java
+🧠 Data Structures & Algorithms
+🌐 Full Stack Development
+⚛️ React
+🔙 Backend Development
+🗄️ SQL & MongoDB
+🤖 AI / Machine Learning
+🐳 Docker
+🔧 Git & GitHub
+```
+
+---
+
+# 📌 What I'm Working Towards
+
+```text
+                 ┌───────────────────────┐
+                 │   SOFTWARE ENGINEER   │
+                 └───────────┬───────────┘
+                             │
+              ┌──────────────┼──────────────┐
+              ↓              ↓              ↓
+           DSA          Development       Projects
+              │              │              │
+              ↓              ↓              ↓
+          Problem        Full Stack       Real World
+          Solving         Skills          Experience
+              │              │              │
+              └──────────────┼──────────────┘
+                             ↓
+                      🚀 Job Ready
+```
+
+---
+
+# 📊 GitHub Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shaurabh2003&theme=github-compact&hide_border=true&area=true&custom_title=Shaurabh's%20Contribution%20Graph" alt="GitHub Contribution Graph"/>
+
+</div>
+
+---
+
+# 📈 GitHub Stats Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaurabh2003&theme=github" alt="GitHub Profile Details"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shaurabh2003&theme=github" width="49%" alt="Repositories per Language"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shaurabh2003&theme=github" width="49%" alt="Most Commit Language"/>
+
+</div>
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/shaurabh2003">
+<img src="https://img.shields.io/badge/LinkedIn-Shaurabh%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/shaurabh2003">
+<img src="https://img.shields.io/badge/LeetCode-shaurabh2003-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="mailto:engineershaurabh@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-engineershaurabh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/shaurabh2003">
+<img src="https://img.shields.io/badge/GitHub-shaurabh2003-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# ⚡ Fun Fact
+
+> 🎥 I'm also a **Content Creator** and enjoy creating, learning and sharing things related to technology.
+
+---
+
+<div align="center">
+
+### 💻 "Keep Coding. Keep Learning. Keep Building. 🚀"
+
+<img src="https://komarev.com/ghpvc/?username=shaurabh2003&label=Thanks%20for%20visiting&color=0e75b6&style=flat" alt="Profile Views"/>
+
+</div>
