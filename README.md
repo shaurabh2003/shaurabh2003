@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6f42c1&height=220&section=header&text=SHAURABH%20KUMAR&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Software%20Engineer&descAlignY=58&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6f42c1&height=220&section=header&text=WELCOME%20MYGITHUBPROFILE&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Software%20Engineer&descAlignY=58&descSize=20" width="100%" />
 
 # 👋 Hi, I'm **SHAURABH KUMAR**
 
@@ -131,7 +131,7 @@ I'm **Shaurabh Kumar**, an MCA student and aspiring software engineer focused on
 
 <div align="center">
 
-<a href="https://github.com/shaurabh2003/DSA-TOPIC-CODES">
+<a href="[https://github.com/shaurabh2003/DSA-TOPIC-CODES](https://github.com/shaurabh2003/DSA-TOPIC-CODES/blob/main/PROJECT%20JAVA/DsaToolkit.java)">
 <img src="https://img.shields.io/badge/⭐%20EXPLORE%20DSA%20TOOLKIT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore DSA Toolkit"/>
 </a>
 
