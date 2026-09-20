@@ -1,5 +1,4 @@
 <div align="center">
-  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,25:082F49,50:075985,75:0284C7,100:06B6D4&height=250&section=header&text=WELCOME%20TO%20MY%20GITHUB%20PROFILE&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=ASPIRING%20SOFTWARE%20ENGINEER&descAlignY=61&descSize=21&animation=twinkling" width="100%" alt="Welcome to my GitHub Profile"/>
 
 # 👋 Hi, I'm **SHAURABH KUMAR**
@@ -68,17 +67,7 @@ I'm **Shaurabh Kumar**, an MCA student and aspiring software engineer focused on
 # 📊 GitHub Statistics
 
 <div align="center">
-
-<a href="https://github.com/shaurabh2003">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=shaurabh2003&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=github_dark" alt="Shaurabh's GitHub Stats"/>
-</a>
-
-<a href="https://github.com/shaurabh2003">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaurabh2003&layout=compact&langs_count=8&hide_border=true&theme=github_dark" alt="Top Languages"/>
-</a>
-
 <br><br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaurabh2003&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak"/>
 
 </div>
