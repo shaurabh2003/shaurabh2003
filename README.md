@@ -157,27 +157,21 @@ I'm **Shaurabh Kumar**, an MCA student and aspiring software engineer focused on
 
 ---
 
----
-
----
-
-# 📈 GitHub Profile Summary
+# 📊 GitHub Profile Analytics
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaurabh2003&theme=github" alt="GitHub Profile Details"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaurabh2003&theme=tokyonight" width="100%" alt="GitHub Profile Analytics"/>
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shaurabh2003&theme=github" width="49%" alt="Repositories per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shaurabh2003&theme=tokyonight" width="49%" alt="GitHub Statistics"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shaurabh2003&theme=github" width="49%" alt="Most Commit Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shaurabh2003&theme=tokyonight&utcOffset=5.5" width="49%" alt="Productive Coding Time"/>
 
 </div>
 
 ---
-
-<div align="center">
 
 ### 🚀 **Keep Coding • Keep Learning • Keep Building**
 
