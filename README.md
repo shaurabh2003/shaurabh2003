@@ -98,13 +98,19 @@ I'm **Shaurabh Kumar**, an MCA student and aspiring software engineer focused on
 
 ---
 
-# 🧠 DSA Toolkit Project -->
+# 🧠 DSA Toolkit Project
 
 <div align="center">
 
 ### ☕ Java DSA Toolkit
 
-**A Java-based learning project for organizing and practicing important Data Structures & Algorithms.**
+**A structured Java-based project for learning, implementing, and practicing essential Data Structures & Algorithms.**
+
+<br>
+
+<img src="https://img.shields.io/badge/Language-Java-0F172A?style=for-the-badge&logo=openjdk&logoColor=38BDF8" alt="Java"/>
+<img src="https://img.shields.io/badge/Focus-DSA-1E3A8A?style=for-the-badge&logoColor=FFFFFF" alt="DSA"/>
+<img src="https://img.shields.io/badge/Learning%20%26%20Practice-2563EB?style=for-the-badge" alt="Learning and Practice"/>
 
 </div>
 
@@ -114,12 +120,12 @@ I'm **Shaurabh Kumar**, an MCA student and aspiring software engineer focused on
 | :----------------- | :------------------------------- |
 | 📦 **Arrays**      | Implementation & Problem Solving |
 | 🔤 **Strings**     | String Manipulation              |
-| 🔗 **Linked List** | Core Operations                  |
-| 📚 **Stack**       | Stack Problems                   |
-| 🚶 **Queue**       | Queue Problems                   |
-| 🌳 **Trees**       | Traversals & Problems            |
-| 🕸️ **Graphs**     | BFS / DFS                        |
-| #️⃣ **Hashing**    | HashMap / HashSet                |
+| 🔗 **Linked List** | Core Operations & Problems       |
+| 📚 **Stack**       | Stack Operations & Problems      |
+| 🚶 **Queue**       | Queue Operations & Problems      |
+| 🌳 **Trees**       | Traversals & Problem Solving     |
+| 🕸️ **Graphs**     | BFS & DFS                        |
+| #️⃣ **Hashing**    | HashMap & HashSet                |
 | 💰 **Greedy**      | Greedy Algorithms                |
 | 🔎 **Searching**   | Searching Techniques             |
 | 🔄 **Sorting**     | Sorting Algorithms               |
@@ -128,8 +134,8 @@ I'm **Shaurabh Kumar**, an MCA student and aspiring software engineer focused on
 
 <div align="center">
 
-<a href="[https://github.com/shaurabh2003/DSA-TOPIC-CODES](https://github.com/shaurabh2003/DSA-TOPIC-CODES/blob/main/PROJECT%20JAVA/DsaToolkit.java)">
-<img src="https://img.shields.io/badge/⭐%20EXPLORE%20DSA%20TOOLKIT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore DSA Toolkit"/>
+<a href="https://github.com/shaurabh2003/DSA-TOPIC-CODES">
+<img src="https://img.shields.io/badge/⭐%20EXPLORE%20DSA%20TOOLKIT-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Explore DSA Toolkit"/>
 </a>
 
 </div>
@@ -166,6 +172,6 @@ I'm **Shaurabh Kumar**, an MCA student and aspiring software engineer focused on
 
 ---
 
-### 🚀 **Keep Coding • Keep Learning • Keep Building**------->
+### 🚀 **Keep Coding • Keep Learning • Keep Building**
 
 <br>
